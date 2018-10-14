@@ -15,11 +15,11 @@ participation in club activities.
 
 **Who we share your personal data with**
 
-We will only share your information when necessary for the successful facilitation of Tour and related activities. Our tour operator is Travelbound, you can view their privacy policy at https://www.travelbound.co.uk/privacy-policy/.
+We will only share your information when necessary for the successful facilitation of Tour and related activities. Our tour operator is Travelbound, you can view their privacy policy at (https://www.travelbound.co.uk/privacy-policy/).
 
 **Where we store your data**
 
-Your information is stored with google under the account benjmwest@gmail.com, it is protected by a secure password and 2FA. https://policies.google.com/privacy?hl=en&gl=uk
+Your information is stored with google under the account benjmwest@gmail.com, it is protected by a secure password and 2FA. (https://policies.google.com/privacy?hl=en&gl=uk)
 
 **Data retention period**
 
