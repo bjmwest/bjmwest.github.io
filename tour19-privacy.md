@@ -1,4 +1,4 @@
-##Privacy Policy
+# Privacy Policy
 
 This document refers to the collection and handling of personal data in relation to the Southampton University Symphonic Wind Orchestra and Southampton University Sinfonietta joint tour 2019, hereafter known as **Tour**. The data controllers are the **Tour Secs** David Saudek, George Harrington and Ben West. Data processors are companies that store or use your data on our behalf, these are **Google** and **Travelbound**.
 
